@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0079-word-search/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0079-word-search/) | Medium |
 | [1405-longest-happy-string](https://github.com/githubvikrant/LeetcodeProblems/tree/main/1405-longest-happy-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0079-word-search/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -48,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0079-word-search/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
