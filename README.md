@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0079-word-search/) | Medium |
+| [0139-word-break](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0139-word-break/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0079-word-search/) | Medium |
+| [0139-word-break](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0139-word-break/) | Medium |
 | [1405-longest-happy-string](https://github.com/githubvikrant/LeetcodeProblems/tree/main/1405-longest-happy-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -59,4 +61,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0079-word-search/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0139-word-break/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0139-word-break/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0139-word-break/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
