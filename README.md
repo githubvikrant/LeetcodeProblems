@@ -41,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0079-word-search/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0139-word-break/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0404-sum-of-left-leaves](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0404-sum-of-left-leaves/) | Easy |
 <!---LeetCode Topics End-->
