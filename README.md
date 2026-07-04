@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0079-word-search/) | Medium |
 | [0139-word-break](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0139-word-break/) | Medium |
+| [0213-house-robber-ii](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0091-decode-ways](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0091-decode-ways/) | Medium |
 | [0139-word-break](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0139-word-break/) | Medium |
+| [0213-house-robber-ii](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0213-house-robber-ii/) | Medium |
 | [0647-palindromic-substrings](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0647-palindromic-substrings/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
