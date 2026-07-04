@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0091-decode-ways/) | Medium |
 | [0139-word-break](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0139-word-break/) | Medium |
+| [0647-palindromic-substrings](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0647-palindromic-substrings/) | Medium |
 | [1405-longest-happy-string](https://github.com/githubvikrant/LeetcodeProblems/tree/main/1405-longest-happy-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0091-decode-ways](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0091-decode-ways/) | Medium |
 | [0139-word-break](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0139-word-break/) | Medium |
+| [0647-palindromic-substrings](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0647-palindromic-substrings/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0404-sum-of-left-leaves](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0404-sum-of-left-leaves/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0647-palindromic-substrings](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0647-palindromic-substrings/) | Medium |
 <!---LeetCode Topics End-->
