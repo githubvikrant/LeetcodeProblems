@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0079-word-search](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0091-decode-ways/) | Medium |
 | [0139-word-break](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0139-word-break/) | Medium |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0091-decode-ways](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0091-decode-ways/) | Medium |
 | [0139-word-break](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0139-word-break/) | Medium |
 | [0213-house-robber-ii](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0213-house-robber-ii/) | Medium |
@@ -95,5 +97,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0647-palindromic-substrings](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0647-palindromic-substrings/) | Medium |
 <!---LeetCode Topics End-->
