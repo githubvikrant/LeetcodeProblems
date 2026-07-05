@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0139-word-break/) | Medium |
 | [0213-house-robber-ii](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0091-decode-ways/) | Medium |
 | [0139-word-break](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0139-word-break/) | Medium |
 | [0213-house-robber-ii](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0213-house-robber-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0647-palindromic-substrings](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0647-palindromic-substrings/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
