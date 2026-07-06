@@ -48,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [1325-delete-leaves-with-a-given-value](https://github.com/githubvikrant/LeetcodeProblems/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0079-word-search/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [1325-delete-leaves-with-a-given-value](https://github.com/githubvikrant/LeetcodeProblems/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [1325-delete-leaves-with-a-given-value](https://github.com/githubvikrant/LeetcodeProblems/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
