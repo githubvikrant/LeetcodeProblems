@@ -8,7 +8,7 @@ class Solution {
         return result;
         
     }
-
+      // good question
     void generate(List<String> result,int n,String current,int open, int close){
         if(open == n && close == n){
             result.add(current);
