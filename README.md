@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0051-n-queens/) | Hard |
+| [0077-combinations](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0077-combinations/) | Medium |
 | [0079-word-search](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0079-word-search/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
