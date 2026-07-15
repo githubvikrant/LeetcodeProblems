@@ -114,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0647-palindromic-substrings](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0647-palindromic-substrings/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/githubvikrant/LeetcodeProblems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/githubvikrant/LeetcodeProblems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
