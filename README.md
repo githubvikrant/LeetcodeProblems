@@ -125,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/githubvikrant/LeetcodeProblems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
