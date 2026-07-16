@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0051-n-queens](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0079-word-search/) | Medium |
 | [0139-word-break](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0139-word-break/) | Medium |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0014-longest-common-prefix](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0091-decode-ways/) | Medium |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0139-word-break](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0139-word-break/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
