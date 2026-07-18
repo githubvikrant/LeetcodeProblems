@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0002-add-two-numbers/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/githubvikrant/LeetcodeProblems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -131,9 +132,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
