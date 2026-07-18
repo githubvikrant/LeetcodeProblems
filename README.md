@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0015-3sum/) | Medium |
 | [0051-n-queens](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0079-word-search/) | Medium |
 | [0139-word-break](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0139-word-break/) | Medium |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0015-3sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0015-3sum](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0015-3sum/) | Medium |
 | [0647-palindromic-substrings](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0647-palindromic-substrings/) | Medium |
 ## Math
 | Problem Name | Difficulty |
