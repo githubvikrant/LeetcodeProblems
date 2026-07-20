@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0322-coin-change/) | Medium |
+| [1260-shift-2d-grid](https://github.com/githubvikrant/LeetcodeProblems/tree/main/1260-shift-2d-grid/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0079-word-search/) | Medium |
+| [1260-shift-2d-grid](https://github.com/githubvikrant/LeetcodeProblems/tree/main/1260-shift-2d-grid/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/githubvikrant/LeetcodeProblems/tree/main/1260-shift-2d-grid/) | Easy |
 <!---LeetCode Topics End-->
