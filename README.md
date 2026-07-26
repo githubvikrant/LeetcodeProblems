@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0743-network-delay-time](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0743-network-delay-time/) | Medium |
 | [1405-longest-happy-string](https://github.com/githubvikrant/LeetcodeProblems/tree/main/1405-longest-happy-string/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0079-word-search/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0743-network-delay-time](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0743-network-delay-time/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/githubvikrant/LeetcodeProblems/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0322-coin-change](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0322-coin-change/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0743-network-delay-time](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0743-network-delay-time/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/githubvikrant/LeetcodeProblems/tree/main/1260-shift-2d-grid/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0743-network-delay-time/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
