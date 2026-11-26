@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/githubvikrant/LeetcodeProblems/tree/main/0322-coin-change/) | Medium |
 | [1260-shift-2d-grid](https://github.com/githubvikrant/LeetcodeProblems/tree/main/1260-shift-2d-grid/) | Easy |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/githubvikrant/LeetcodeProblems/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
